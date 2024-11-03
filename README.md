@@ -1,9 +1,9 @@
-# MoheEdeen's Projects
+# HELLO!
 
 ## About Me
-I'm Mohe Edeen, a sophomore studying Computer Science and Applied Mathematics at the University of Maryland. I have experience in web development, backend engineering, and building scalable solutions.
+I'm Mohe Edeen, a sophomore studying Computer Science and Applied Mathematics at the University of Maryland.
 
-## Notable Projects
+## My Projects
 
 - **Sunwave**: Focuses on clean energy by harnessing solar power, aimed at promoting sustainable energy and reducing carbon footprints.
 - **Bitcamp 2024 Website**: Developed a website and cross-platform app for Bitcamp 2024, used by over 1000 participants.
@@ -16,3 +16,6 @@ I'm Mohe Edeen, a sophomore studying Computer Science and Applied Mathematics at
 - Python, Flask, Django, HTML, CSS, JavaScript, Vue.js
 - Lua, Java, MySQL, C, Tkinter
 - AWS (EC2, S3, Lambda, DynamoDB)
+
+[![Mohe's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoheEdeen&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Mohe's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoheEdeen&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
