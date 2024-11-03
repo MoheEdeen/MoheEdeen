@@ -13,5 +13,5 @@ I'm Mohe Edeen, a sophomore studying Computer Science and Applied Mathematics at
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MoheEdeen&theme=transparent&hide_border=false)<br/>
 
-### 🔝 Top Contributed Repo
+### Contributions!
 ![](https://github-contributor-stats.vercel.app/api?username=MoheEdeen&limit=5&theme=dark&combine_all_yearly_contributions=true)
