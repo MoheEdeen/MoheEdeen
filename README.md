@@ -1,8 +1,6 @@
 # 👋 Hello, I’m Mohe Edeen Abu Maizer!
 ---
 
-[![](https://visitcount.itsvg.in/api?id=MoheEdeen&icon=0&color=0)](https://visitcount.itsvg.in)
-
 🎓 **Junior Undergraduate Student** at the **University of Maryland, College Park**  
 📚 **Double Major:** Computer Science (Machine Learning specialization) & Applied Mathematics  
 ⚛️ **Minor:** Quantum Engineering and Science  
