@@ -6,12 +6,30 @@
 🎓 **Junior Undergraduate Student** at the **University of Maryland, College Park**  
 📚 **Double Major:** Computer Science (Machine Learning specialization) & Applied Mathematics  
 ⚛️ **Minor:** Quantum Engineering and Science  
+💡 **Tech Director** @ [Bitcamp 2026](https://bit.camp) — one of the largest collegiate hackathons in the U.S.
 
 ---
 
 ## 🚀 About Me
 
-I’m an international student from Jordan passionate about building scalable, impactful systems that bridge **software engineering, machine learning, and scientific research**. My work spans from **quantum-enhanced ML** and **climate simulations** to **full-stack applications** that empower communities.
+I’m an international student from Jordan passionate about building scalable, impactful systems that bridge **software engineering, machine learning, and scientific research**.  
+
+My work spans from **quantum-enhanced ML** and **climate simulations** to **full-stack applications** that empower communities.  
+
+---
+
+## 🌐 Portfolio
+
+Check out my **personal portfolio** showcasing my work, research, and leadership experience:  
+🔗 **[moheedeen.github.io](https://moheedeen.github.io)**
+
+### Featured Highlights
+- 🛰️ **StreetScribe** — Mobile app that enables communities to report, map, and track local issues in real time using **React Native**, **AWS**, and **PostgreSQL**.  
+- 🧠 **Deepfake Detection System** — ML pipeline detecting synthetic audio using **spectrogram analysis**, **signal processing**, and **TensorFlow/Scikit-learn**.  
+- ⚛️ **Quantum ML Research** — Integrated **Qiskit** and **PennyLane** for hybrid quantum-classical attention mechanisms, optimizing NLP and vision tasks.  
+- 🌤️ **Climate Computing Research (UMD)** — Automated large-scale **WRF-ARW simulations** on **NCAR’s Derecho cluster** to study Arctic weather dynamics.  
+- 🍽️ **TerpPlate** — Web app displaying UMD dining menus via a **Python BeautifulSoup backend** and **React + TypeScript frontend**, enhanced with **Gemini AI meal recommendations**.  
+- 💻 **Amazon Project Kuiper x ADC** — Full-stack RF visualization tool integrating **Next.js**, **Mapbox**, and **PostgreSQL**, supporting ML defensibility.
 
 ---
 
@@ -25,7 +43,6 @@ I’m an international student from Jordan passionate about building scalable, i
 - 🍽️ **TerpPlate** — Full-stack web app scraping UMD dining menus with **BeautifulSoup**, serving live data through a **React + TypeScript** frontend, and generating **Gemini AI-powered meal recommendations**.  
 - 📖 **Spread The Read** — Flask-based app that assesses reading difficulty using NLP and readability algorithms to assist educators.  
 - ⚡ **Sunwave** — Kivy-based solar planning tool simplifying residential solar panel installation through real-time performance calculations.
-- 💡 **Tech Director** @ [Bitcamp 2026](https://bit.camp) — one of the largest collegiate hackathons in the U.S.
 
 ---
 
@@ -49,8 +66,6 @@ AWS (EC2, S3, Lambda) · PostgreSQL · MySQL · DynamoDB · GitHub · Bash (HPC 
 📍 College Park, MD, USA  
 
 ---
-
-## 🔥 GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MoheEdeen&theme=transparent&hide_border=false)
 
