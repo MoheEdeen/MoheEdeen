@@ -6,7 +6,6 @@
 🎓 **Junior Undergraduate Student** at the **University of Maryland, College Park**  
 📚 **Double Major:** Computer Science (Machine Learning specialization) & Applied Mathematics  
 ⚛️ **Minor:** Quantum Engineering and Science  
-💡 **Tech Director** @ [Bitcamp 2026](https://bit.camp) — one of the largest collegiate hackathons in the U.S.
 
 ---
 
@@ -24,6 +23,7 @@ Check out my **personal portfolio** showcasing my work, research, and leadership
 🔗 **[moheedeen.github.io](https://moheedeen.github.io)**
 
 ### Featured Highlights
+- 💡 **Tech Director** @ [Bitcamp 2026](https://bit.camp) — one of the largest collegiate hackathons in the U.S.
 - 🛰️ **StreetScribe** — Mobile app that enables communities to report, map, and track local issues in real time using **React Native**, **AWS**, and **PostgreSQL**.  
 - 🧠 **Deepfake Detection System** — ML pipeline detecting synthetic audio using **spectrogram analysis**, **signal processing**, and **TensorFlow/Scikit-learn**.  
 - ⚛️ **Quantum ML Research** — Integrated **Qiskit** and **PennyLane** for hybrid quantum-classical attention mechanisms, optimizing NLP and vision tasks.  
