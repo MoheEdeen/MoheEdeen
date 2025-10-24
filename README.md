@@ -18,7 +18,7 @@ My work spans from **quantum-enhanced ML** and **climate simulations** to **full
 ## 🌐 Portfolio
 
 Check out my **personal portfolio** showcasing my work, research, and leadership experience:  
-🔗 **[moheedeen.github.io](https://moheedeen.github.io)**
+🔗 **[moheedeen.netlify.app](https://moheedeen.netlify.app)**
 
 ### Featured Highlights
 - 💡 **Tech Director** @ [Bitcamp 2026](https://bit.camp) — one of the largest collegiate hackathons in the U.S.
