@@ -1,14 +1,57 @@
-# HELLO!
+# 👋 Hello, I’m Mohe Edeen Abu Maizer!
 ---
+
 [![](https://visitcount.itsvg.in/api?id=MoheEdeen&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I'm Mohe Edeen, a sophomore studying Computer Science and Applied Mathematics at the University of Maryland.<br><br>My Projects:<br><br>- **Sunwave**: Focuses on clean energy by harnessing solar power, aimed at promoting sustainable energy and reducing carbon footprints.<br>- **Bitcamp 2024/2025 Website**: Developed a website and cross-platform app for Bitcamp 2024, used by over 1000 participants.<br>- **PlanetTerp**: OSS Contributor, enhancing UMD's grade and professor data platform using Flask, Django, and SQL.<br>- **Warriors Legacy Care Service App**: Developed a platform connecting veterans to critical resources using Flask/Django and AWS.<br>- **testudoNotifications**: A Python script to track course availability for UMD students.<br>- **Spread the Read**: Full-stack web application assessing text readability using Python Flask and SQL.<br>- **Amazon Project Kuiper Project**: Built a dynamic web frontend with Next.js, React, and Mapbox to visualize clutter data and Kuiper transmitter locations, supported by a Python/Postgres backend integrating ML/AI pipelines for FCC-compliant analysis.<br><br>Skills<br>- Python, Flask, Django, HTML, CSS, JavaScript, Vue.js, React, React Native<br>- Lua, Java, MySQL, C, Tkinter<br>- AWS (EC2, S3, Lambda, DynamoDB)
+🎓 **Junior Undergraduate Student** at the **University of Maryland, College Park**  
+📚 **Double Major:** Computer Science (Machine Learning specialization) & Applied Mathematics  
+⚛️ **Minor:** Quantum Engineering and Science  
 
+---
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moheedeen) 
+## 🚀 About Me
 
-# I dabbled with...
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)<br><br>![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)<br><br> ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)<br><br> ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+I’m an international student from Jordan passionate about building scalable, impactful systems that bridge **software engineering, machine learning, and scientific research**. My work spans from **quantum-enhanced ML** and **climate simulations** to **full-stack applications** that empower communities.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MoheEdeen&theme=transparent&hide_border=false)<br/>
+---
+
+## 🧠 Featured Projects
+
+- 🛰️ **Amazon Project Kuiper x ADC** — Built an RF visualization platform integrating **Next.js**, **React**, and **Mapbox** for interactive geospatial analysis. Backend powered by **Python** and **PostgreSQL**, supporting ML defensibility and FCC-compliant workflows.  
+- 🧭 **StreetScribe** — Cross-platform mobile app enabling users to report, map, and track community issues in real time using **React Native**, **AWS**, and **PostgreSQL**.  
+- 💭 **Deepfake Detection System** — Developed an ML pipeline to detect synthetic audio using **spectrograms**, **signal processing**, and **TensorFlow/Scikit-learn**.  
+- 🪐 **Quantum ML Research @ Do Quantum** — Optimized hybrid attention mechanisms using **PennyLane** and **Qiskit**, offloading computation to QPUs to enhance NLP and CV performance.  
+- 🌤️ **Climate Computing Research (UMD)** — Automated WRF-ARW model simulations on **NCAR’s Derecho cluster** to analyze Arctic atmospheric dynamics.  
+- 🍽️ **TerpPlate** — Full-stack web app scraping UMD dining menus with **BeautifulSoup**, serving live data through a **React + TypeScript** frontend, and generating **Gemini AI-powered meal recommendations**.  
+- 📖 **Spread The Read** — Flask-based app that assesses reading difficulty using NLP and readability algorithms to assist educators.  
+- ⚡ **Sunwave** — Kivy-based solar planning tool simplifying residential solar panel installation through real-time performance calculations.
+- 💡 **Tech Director** @ [Bitcamp 2026](https://bit.camp) — one of the largest collegiate hackathons in the U.S.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages & Frameworks**  
+Python · TypeScript · JavaScript · C · Java · OCaml · Rust · Flask · Django · React · React Native · Next.js · Tailwind CSS · Framer Motion
+
+**Data & ML**  
+Pandas · NumPy · Scikit-learn · PyTorch · Qiskit · PennyLane · xarray · NetCDF4 · TensorFlow
+
+**Tools & Platforms**  
+AWS (EC2, S3, Lambda) · PostgreSQL · MySQL · DynamoDB · GitHub · Bash (HPC scripting) · Jupyter Notebook · Google Colab · Figma · LaTeX
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moheedeen)  
+📧 **moheedeenwork@gmail.com**  
+📍 College Park, MD, USA  
+
+---
+
+## 🔥 GitHub Stats
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=MoheEdeen&theme=transparent&hide_border=false)
+
+---
